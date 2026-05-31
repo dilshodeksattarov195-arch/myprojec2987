@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerfrocess",
+        "uuid": 7153865,
+        "checksum": "c3fwu"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
